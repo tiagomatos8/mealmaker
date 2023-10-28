@@ -1,4 +1,4 @@
-let menu = {
+const menu = {
   _courses: {
     _appetizers: [],
     _mains: [],
